@@ -19,4 +19,4 @@ _Note: See [How to Prevent Permissions Errors](https://docs.npmjs.com/getting-st
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/ionic-team/ionic-conference-app/blob/master/.github/CONTRIBUTING.md) :tada::+1:
+See [CONTRIBUTING.md](https://github.com/AldoTu/hf-ionic-app-backend/blob/master/.github/CONTRIBUTING.md) :tada::+1:
