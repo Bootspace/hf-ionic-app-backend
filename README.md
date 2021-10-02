@@ -2,6 +2,8 @@
 
 This is backend service for the hf-ionic-app public repo.
 
+:tada: Join my [Discord server](https://discord.gg/3HjGtrm4KK) to talk about the project, ideas, issues and more! :tada:
+
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
